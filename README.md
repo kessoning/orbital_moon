@@ -1,8 +1,14 @@
-
-
 # orbital_moon
 
 My first sketch using Veda on Atom with a Vertex Shader, and inspired by the Moon.
+
+# Gallery
+
+![Alt Text](https://raw.githubusercontent.com/KessonDalef/orbital_moon/master/images/img1.jpg)
+
+![Alt Text](https://raw.githubusercontent.com/KessonDalef/orbital_moon/master/images/img2.jpg)
+
+![Alt Text](https://raw.githubusercontent.com/KessonDalef/orbital_moon/master/images/gif.gif)
 
 # How to Run
 
